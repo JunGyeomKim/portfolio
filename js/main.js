@@ -1,5 +1,9 @@
 
 $(document).ready(function() {
+    $(".no_rink").click(function (params) {
+       alert("Play映像はありません。。。") 
+    });
+
 //Off Canvas Menu Slide
        $(".menu-toggle").click(function() {
            $('nav').toggleClass('nav-hide')
