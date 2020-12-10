@@ -111,6 +111,10 @@ a:hover {
 		color: #10CAB7;
 		text-decoration: none;
 	}
+a:rink {
+	color: black;
+}
+
 /* Navbar */
 nav {
 	z-index: 9999;
